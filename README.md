@@ -12,3 +12,9 @@ For more information, check out [README.md](./config/README.md)
 lv-architecture-interface shows some basic patterns for a non re-entrant and re-entrant interface designed for high concurrency.
 
 For more information, check out [README.md](./interface/README.md)
+
+## interface-dom-sub (lv-architecture-interface-dom-sub)
+
+lv-architecture-interface-dom-sub attempts to show a specific use case where a main interface is **dom**inate for multiple **sub**interfaces using subpanels.
+
+For more information, check out [README.md](./interface-dom-sub/README.md)

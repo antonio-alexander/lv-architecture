@@ -6,3 +6,7 @@
 	path = interface
 	url = git@github.com:antonio-alexander/lv-architecture-interface.git
 	branch = main
+[submodule "lv-architecture-interface-dom-sub"]
+	path = lv-architecture-interface-dom-sub
+	url = git@github.com:antonio-alexander/lv-architecture-interface-dom-sub.git
+	branch = main
