@@ -18,3 +18,9 @@ For more information, check out [README.md](./interface/README.md)
 lv-architecture-interface-dom-sub attempts to show a specific use case where a main interface is **dom**inate for multiple **sub**interfaces using subpanels.
 
 For more information, check out [README.md](./interface-dom-sub/README.md)
+
+## launcher (lv-architecture-launcher)
+
+lv-architecture-launcher shows a way to combine one or more interfaces and functional components into a complete application. 
+
+For more information, check out [README.md](./launcher/README.md)

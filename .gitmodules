@@ -10,3 +10,7 @@
 	path = interface-dom-sub
 	url = git@github.com:antonio-alexander/lv-architecture-interface-dom-sub.git
 	branch = main
+[submodule "launcher"]
+	path = launcher
+	url = git@github.com:antonio-alexander/lv-architecture-launcher.git
+	branch = main
